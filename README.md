@@ -58,7 +58,7 @@ bank_customer_churn_prediction/
 ## How to Run Locally
 1. **Clone Repository**
 ```bash
-git clone [https://github.com/UsernameKamu/bank_customer_churn_prediction.git](https://github.com/UsernameKamu/bank_customer_churn_prediction.git)
+git clone https://github.com/hyusam/bank-churn-prediction.git
 cd bank_customer_churn_prediction
 ```
 2. **Buat Virtual Environment**
